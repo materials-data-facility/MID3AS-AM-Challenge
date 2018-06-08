@@ -8,11 +8,11 @@
 
 Challenge data is currently being packaged and will be available soon. The current timeline for challenge release is listed below, but please check back for further updates.
 
-Challenge 1: Macro-scale Process-to-Structure Predictions - June 15 (Link to Problem Statement) (Link to Data Package)
+Challenge 1: Macro-scale Process-to-Structure Predictions - June 29 (Link to Problem Statement) (Link to Data Package)
 
-Challenge 2: Micro-scale Process-to-Structure Predictions - June 4 (Link to Problem Statement) (Link to Data Package)
+Challenge 2: Micro-scale Process-to-Structure Predictions - June 11 (Link to Problem Statement) (Link to Data Package)
 
-Challenge 3: Macro-scale Structure-to-Properties Predictions - June 15 (Link to Problem Statement) (Link to Data Package)
+Challenge 3: Macro-scale Structure-to-Properties Predictions - June 22 (Link to Problem Statement) (Link to Data Package)
 
 Challenge 4: Micro-scale Structure-to-Properties Predictions - October 1 (delayed) (Link to Problem Statement) (Link to Data Package)
 
