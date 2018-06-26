@@ -1,6 +1,6 @@
 ## Getting Started
 
-* First, [register here] (https://globus.org/signup ) for a Globus account (free) using institutional credentials Google ID or ORCID. 
+* First, [register here] ( https://globus.org/signup ) for a free Globus account using institutional credentials Google ID or ORCID. 
 
 * After creating a Globus account, join this [group]( https://www.globus.org/app/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about ) to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
 
