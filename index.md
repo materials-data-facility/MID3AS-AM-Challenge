@@ -10,11 +10,11 @@
 
 Challenge data is currently being packaged and will be available soon. The current timeline for challenge release is listed below, but please check back for further updates.
 
-[<span style="color:blue">**COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - June 29 [[Link to Problem Statement]] () [[Link to Data Package]]()
+[<span style="color:blue">**COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - June 29 [[Link to Problem Statement]]() [[Link to Data Package]]()
 
-[<span style="color:green">**OPEN**</span>] Challenge 2: Micro-scale Process-to-Structure Predictions - June 11 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z)
+[<span style="color:green">**OPEN**</span>] Challenge 2: Micro-scale Process-to-Structure Predictions - [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z)
 
-[<span style="color:blue">**COMING SOON**</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions - June 22 [[Link to Problem Statement]]() [[Link to Data Package]]()
+[<span style="color:blue">**COMING SOON**</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions - June 29 [[Link to Problem Statement]]() [[Link to Data Package]]()
 
 [<span style="color:red">**DELAYED**</span>] Challenge 4: Micro-scale Structure-to-Properties Predictions - October 1 [[Link to Problem Statement]]() [[Link to Data Package]]()
 
