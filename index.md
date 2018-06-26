@@ -12,7 +12,7 @@ Challenge data is currently being packaged and will be available soon. The curre
 
 [<span style="color:blue">**COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - June 29
 
-[<span style="color:green">**OPEN**</span>] Challenge 2: Micro-scale Process-to-Structure Predictions - [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z)
+[<span style="color:green">**OPEN**</span>] Challenge 2: Micro-scale Process-to-Structure Predictions - [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)
 
 [<span style="color:blue">**COMING SOON**</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions - June 29
 
