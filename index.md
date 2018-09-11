@@ -18,7 +18,7 @@ For each challenge listed below, there are links to 1) a PDF document describing
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)
 
 [<span style="color:#B2C248">**DATA COMING SOON**</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%203%20Problem%20Statement%20Clean.pdf)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%203%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M26639)
 
 [<span style="color:#FF2400">**DELAYED**</span>] Challenge 4: Micro-scale Structure-to-Properties Predictions - October 1
 
