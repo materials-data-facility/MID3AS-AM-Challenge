@@ -38,7 +38,7 @@ Challenges will be graded by awarding points for each requested prediction, base
 
 ## Schedule
 
-Updates on schedule for each challenge will be posted here as they develop.  The planned submission deadlines for individual cahllenges are stated in the Challenge Data section above.  Modifications to those dates will be posted here and communicated to all registered participants via email.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline.  A workshop will be hosted to debrief participants on the results and honor Top Performers tentatively planned for the week of 24 June 2019.
+Updates on schedule for each challenge will be posted here as they develop.  The planned submission deadlines for individual challenges are stated in the Challenge Data section above.  Modifications to those dates will be posted here and communicated to all registered participants via email.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline.  A workshop will be hosted to debrief participants on the results and honor Top Performers tentatively planned for the week of 24 June 2019.
 
 ## Logistics 
 
