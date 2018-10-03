@@ -12,12 +12,12 @@ Challenge data is currently being packaged and will be available soon. The curre
 
 For each challenge listed below, there are links to 1) a PDF document describing the problem, 2) the Globus endpoint where individual files from the dataset can be transferred to a location of your choice through Globus and 3) a direct download of the entire dataset as a zip package.
 
-[<span style="color:#FBB117">**PROBLEM STATEMENT & DATA COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - October 15
+[<span style="color:#FBB117">**PROBLEM STATEMENT & DATA COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - October 31
 
-[<span style="color:#41A317">**OPEN**</span>] Challenge 2: Micro-scale Process-to-Structure Predictions<br>
+[<span style="color:#41A317">**OPEN** - Due 31 January 2019</span>] Challenge 2: Micro-scale Process-to-Structure Predictions<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)
 
-[<span style="color:#41A317">**OPEN**</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions<br>
+[<span style="color:#41A317">**OPEN** - Due 31 January 2019</span>] Challenge 3: Macro-scale Structure-to-Properties Predictions<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%203%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M26639)
 
 [<span style="color:#FF2400">**DELAYED**</span>] Challenge 4: Micro-scale Structure-to-Properties Predictions - Early 2019
@@ -38,7 +38,7 @@ Challenges will be graded by awarding points for each requested prediction, base
 
 ## Schedule
 
-Challenge problems and data packages will be released starting around June 1, 2018.  Updates on schedule for each challenge will be posted here as they develop.  Participants will have approximately five (5) months to complete submissions through the participation site.  The planned submission deadline is November 30, 2018.  Modifications to that date will be posted here and communicated to all registered participants via email.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline, tentatively planned for March 15, 2019.  Accompanying this announcement, a workshop will be hosted to debrief participants on the results and honor Top Performers.  
+Updates on schedule for each challenge will be posted here as they develop.  The planned submission deadlines for individual cahllenges are stated in the Challenge Data section above.  Modifications to those dates will be posted here and communicated to all registered participants via email.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline.  A workshop will be hosted to debrief participants on the results and honor Top Performers tentatively planned for the week of 24 June 2019.
 
 ## Logistics 
 
