@@ -12,7 +12,7 @@ Challenge data is currently being packaged and will be available soon. The curre
 
 For each challenge listed below, there are links to 1) a PDF document describing the problem, 2) the Globus endpoint where individual files from the dataset can be transferred to a location of your choice through Globus and 3) a direct download of the entire dataset as a zip package.
 
-[<span style="color:#FBB117">**PROBLEM STATEMENT & DATA COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions - October 31
+[<span style="color:#FBB117">**PROBLEM STATEMENT & DATA COMING SOON**</span>] Challenge 1: Macro-scale Process-to-Structure Predictions
 
 [<span style="color:#41A317">**OPEN** - Due 31 January 2019</span>] Challenge 2: Micro-scale Process-to-Structure Predictions<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)
