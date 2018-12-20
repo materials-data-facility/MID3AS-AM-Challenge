@@ -1,14 +1,14 @@
 ## Getting Started
 
-* **STEP 1**: **[Create a free Globus account]( https://globus.org/signup )** using institutional credentials, Google ID or ORCID. Globus is required to access the datasets.
+* **STEP 1**: **[[Create a free Globus account]]( https://globus.org/signup )** using institutional credentials, Google ID or ORCID. Globus is required to access the datasets.
 
-* **STEP 2**: **[Join this Globus Group]( https://www.globus.org/app/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about )** to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
+* **STEP 2**: **[[Join this Globus Group]]( https://www.globus.org/app/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about )** to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
 
-* **STEP 3**: **[Subscribe Here](https://docs.google.com/forms/d/e/1FAIpQLScibM5JVow6aEfebX5xGLK5zwKRP0O07RdD8jF2Emz6MIcbIQ/viewform?usp=sf_link )** to receive email updates about the AFRL AM Modeling Challenge Series – including information on dataset availability.  (Contact information collected here will only be used to send pertinent updates for the challenges.)
+* **STEP 3**: **[[Subscribe Here]](https://docs.google.com/forms/d/e/1FAIpQLScibM5JVow6aEfebX5xGLK5zwKRP0O07RdD8jF2Emz6MIcbIQ/viewform?usp=sf_link )** to receive email updates about the AFRL AM Modeling Challenge Series – including information on dataset availability.  (Contact information collected here will only be used to send pertinent updates for the challenges.)
 
 ## Challenge Data
 
-**Please check back for updates.**
+<span style="color:#FF2400">Please check back for updates.</span>
 
 For each challenge listed below, there are links to the: Problem Statement, dataset on Globus where individual files from the dataset can be transferred to a location of your choice through Globus, and dataset direct download as a zip package.
 
