@@ -18,8 +18,8 @@ For each challenge listed below, there are links to the:
   </ol>
 
 
-[<span style="color:#A9A9A9">CHALLENGE 1: Macro-scale Process-to-Structure Predictions</span>]<br>
-[<span style="color:#FF2400">**DELAYED - Early 2019**</span>] 
+<span style="color:#A9A9A9">CHALLENGE 1: Macro-scale Process-to-Structure Predictions</span><br>
+<span style="color:#FF2400">**DELAYED - Early 2019**</span> 
 
 
 CHALLENGE 2: **Micro-scale Process-to-Structure Predictions**<br>
@@ -32,8 +32,8 @@ CHALLENGE 3: **Macro-scale Structure-to-Properties Predictions**<br>
 [<span style="color:#41A317">**Now Open** - Submissions Due 31 January 2019</span>] 
 
 
-[<span style="color:#A9A9A9">CHALLENGE 4: **Micro-scale Structure-to-Properties Predictions** </span>]<br>
-[<span style="color:#FF2400">**DELAYED - Early 2019**</span>] 
+<span style="color:#A9A9A9">CHALLENGE 4: Micro-scale Structure-to-Properties Predictions </span><br>
+<span style="color:#FF2400">**DELAYED - Early 2019**</span>
 
 ## Eligibility
 
