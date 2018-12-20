@@ -18,7 +18,7 @@ For each challenge listed below, there are links to the:
   </ol>
 
 
-[<span style="color:##A9A9A9">CHALLENGE 1: **Macro-scale Process-to-Structure Predictions**</span>]<br>
+[<span style="color:#A9A9A9">CHALLENGE 1: Macro-scale Process-to-Structure Predictions</span>]<br>
 [<span style="color:#FF2400">**DELAYED - Early 2019**</span>] 
 
 
