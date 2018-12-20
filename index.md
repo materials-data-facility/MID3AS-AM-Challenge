@@ -17,11 +17,11 @@ For each challenge listed below, there are links to the: Problem Statement, data
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)<br>
-<span style="color:#FF2400">SUBMISSIONS DUE:31 January 2019</span><br>
+<span style="color:#FF2400">SUBMISSIONS DUE: 31 January 2019</span><br>
 
 **CHALLENGE 3: Macro-scale Structure-to-Properties Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%203%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M26639)<br>
-<span style="color:#FF2400">SUBMISSIONS DUE:31 January 2019</span> <br>
+<span style="color:#FF2400">SUBMISSIONS DUE: 31 January 2019</span> <br>
 
 <span style="color:#a9a9a9">CHALLENGE 4: Micro-scale Structure-to-Properties Predictions<br>
 *DELAYED - Early 2019*</span><br>
