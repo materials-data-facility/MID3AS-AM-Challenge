@@ -13,18 +13,18 @@
 For each challenge listed below, there are links to the: Problem Statement, dataset on Globus where individual files from the dataset can be transferred to a location of your choice through Globus, and dataset direct download as a zip package.
 
 **CHALLENGE 1: Macro-scale Process-to-Structure Predictions**<br>
-*DELAYED - Spring 2019*</span><br>
+*DELAYED - Spring 2019*<br>
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%202%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z) [[Dataset Direct Download - 1.8 GB]](https://data.materialsdatafacility.org/afrl-challenge-data/published/publication_1151/data.zip)<br>
-*DELAYED - SPRING 2019*</span><br>
+*DELAYED - SPRING 2019*<br>
 
 **CHALLENGE 3: Macro-scale Structure-to-Properties Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge%203%20Problem%20Statement%20Clean.pdf) [[Dataset]](http://dx.doi.org/10.18126/M26639)<br>
-*DELAYED - SPRING 2019*</span><br>
+*DELAYED - SPRING 2019*<br>
 
 **CHALLENGE 4: Micro-scale Structure-to-Properties Predictions**<br>
-*DELAYED - Spring 2019*</span><br>
+*DELAYED - Spring 2019*<br>
 
 ## Eligibility
 
