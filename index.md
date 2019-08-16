@@ -13,7 +13,7 @@
 For each challenge listed below, there are links to the: Problem Statement and dataset on Globus where individual files from the dataset can be transferred to a location of your choice through Globus. 
 
 **CHALLENGE 1: Macro-scale Process-to-Structure Predictions**<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1ProblemStatement_2019_Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1AnswerTemplate.xlsx)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1AnswerTemplate.xlsx)
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z)
