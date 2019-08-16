@@ -16,10 +16,10 @@ For each challenge listed below, there are links to the: Problem Statement and d
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1AnswerTemplate.xlsx)
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx) [[Dataset]](http://dx.doi.org/10.18126/M27H1Z)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx)
 
 **CHALLENGE 3: Macro-scale Structure-to-Properties Predictions**<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3AnswerTemplate.xlsx) [[Dataset]](http://dx.doi.org/10.18126/M26639)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3AnswerTemplate.xlsx)
 
 **CHALLENGE 4: Micro-scale Structure-to-Properties Predictions**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4ProblemStatement_2019Release.pdf) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4AnswerTemplate.xlsx)
