@@ -2,7 +2,7 @@
 
 * **STEP 1**: **[[Create a free Globus account]]( https://globus.org/signup )** using institutional credentials, Google ID or ORCID. Globus is required to access the datasets.
 
-* **STEP 2**: **[[Join this Globus Group]]( https://www.globus.org/app/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about )** to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
+* **STEP 2**: **[[Join this Globus Group]]( https://app.globus.org/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about )** to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
 
 * **STEP 3**: **[[Subscribe Here]](https://docs.google.com/forms/d/e/1FAIpQLScibM5JVow6aEfebX5xGLK5zwKRP0O07RdD8jF2Emz6MIcbIQ/viewform?usp=sf_link )** to receive email updates about the AFRL AM Modeling Challenge Series – including information on dataset availability.  (Contact information collected here will only be used to send pertinent updates for the challenges.)
 
@@ -12,16 +12,22 @@
 
 For each challenge listed below, there are links to the Problem Statement, Dataset, and Answer Template. The Dataset must be accessed through Globus where individual files from the dataset can be transferred to a location of your choice.  If the Dataset link below takes you to [‘Error Fetching Search Record’](https://materials-data-facility.github.io/MID3AS-AM-Challenge/ErrorFetchingSearchRecord.jpg) page, make sure you are signed into Globus AND click the Login link in the upper right hand corner to sign in using your Globus account information. 
 
+To access the datasets, click the "Globus" link under the "Get the Data" section, which should redirect you to Globus' web application.  Data may be transferred from Globus to your computer by setting up an endpoint.  Documentation on establishing a Globus endpoint for each operating system is found here: [MacOs](https://docs.globus.org/how-to/globus-connect-personal-mac/), [Linux](https://docs.globus.org/how-to/globus-connect-personal-linux/), [Windows](https://docs.globus.org/how-to/globus-connect-personal-windows/).  Once an enpoint is established, the Globus web application is used to conduct the download.  Information on transferring data from Globus is found [here](https://docs.globus.org/how-to/get-started/).
+
 **CHALLENGE 1: Macro-scale Process-to-Structure Predictions**<br>
+Given processing details, predict macroscale **residual strain**.<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/8jfl-i4d8) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge1AnswerTemplate.xlsx)
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
+Given processing details, predict deposit **geometry and microstructural** details at the single bead, single layer scale.<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/m27h1z) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx)
 
 **CHALLENGE 3: Macro-scale Structure-to-Properties Predictions**<br>
+Given representative microstructure characteristics, predict aggregate **stress-strain behavior**.<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/M26639) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3AnswerTemplate.xlsx)
 
 **CHALLENGE 4: Micro-scale Structure-to-Properties Predictions**<br>
+Given an explicit microstructure representation, predict aggregate **stress-strain behavior and strain in particular grains.**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/k5r2-32iu) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4AnswerTemplate.xlsx)
 
 ## ELIGIBILITY
