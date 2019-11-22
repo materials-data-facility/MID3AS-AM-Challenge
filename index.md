@@ -30,6 +30,16 @@ Given representative microstructure characteristics, predict aggregate **stress-
 Given an explicit microstructure representation, predict aggregate **stress-strain behavior and strain in particular grains.**<br>
 [[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/k5r2-32iu) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4AnswerTemplate.xlsx)
 
+## QUESTIONS & ANSWERS
+
+<span style="color:#FF2400">Answers that AFRL provides to any questions about the challenges will be posted here.</span>
+
+**What is the preheat temperature of the build plates?**<br>
+The programmed build plate preheat temperature was set to 80&deg;C for all builds used in the challenge series.
+
+**What is the temperature inside the chamber (i.e., above the powder) during the build?**<br>
+No temperature data inside the build chamber was collected.
+
 ## ELIGIBILITY
 Challenge problems are open to academia, small and large businesses, national laboratories, both in the U.S. and internationally. Data packages will be publicly released by AFRL and made available to participants. Contact information will be required for accessing data packages to allow for challenge updates to be communicated but does not obligate participation. Submissions will be kept private during grading but will be shared anonymously as an aggregate after grading. Only AFRL will know the identity associated with each submission at any time. If a participant is selected as a Top Performer in one of the challenges, then that participant must agree to openly associate their identity with the submission. Participants will be informed of their submission’s grade/quality and can see other submissions in an anonymous form in a debrief document/journal article. Participants interested in having their submission graded, but not considered for an award, may discuss with AFRL regarding inclusion in the anonymous aggregate. Any questions regarding eligibility to participate or accept Top Performer recognitions should be addressed to AFRL through the challenge participation site.
 Participants may submit multiple times but must detail the differences in their modeling approach in the form of a brief abstract, as detailed in the grading section below. Participants should limit themselves to a reasonable number of submissions and are subject to AFRL discretion on how many will be reviewed if more are submitted.
