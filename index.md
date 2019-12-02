@@ -65,7 +65,7 @@ The answer templates included in each challenge data set must be used for all su
 Record the generated submission number for personal records and for the NCDMM award eligibility agreement. To be eligible for award through NCDMM, teams/participants must submit a completed agreement to NCDMM no later than 2 weeks after challenge submissions are due.
 
 ## SCHEDULE
-Schedule updates will be posted here and communicated to all registered participants via email.  The deadline to submit challenge answers will be no later than January 15, 2020.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline. A workshop will be hosted to debrief participants on the results and honor the Top Performers.
+Schedule updates will be posted here and communicated to all registered participants via email.  The deadline to submit challenge answers is January 15, 2020.  AFRL will grade submissions and announce Top Performers approximately four (4) months after the submission deadline. A workshop will be hosted to debrief participants on the results and honor the Top Performers.
 
 ## QUESTIONS
 All questions related to the challenge and the data provided should be directed to marie.cox@us.af.mil. 
