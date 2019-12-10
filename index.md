@@ -49,6 +49,18 @@ We did not directly measure the laser spot size during these experiments/builds.
 **What is the atmosphere used to print the challenge samples?**<br>
 Argon
 
+**Regarding the multi-layer, thin-wall cases for Challenge 2, what is the dwell time between the deposition of each layer, if any?**<br>
+Please refer to the HomeIn_Build B.csv file located in the Input data folder in the Challenge 2 data set for the layer times. Refer to the Challenge 2 Problem Statement slide 9 (substrate and timing) for a description of processing to help you interpret the HomeIn file. 
+
+**What is the expected temperature of the deposited powder once leaving the hopper?**<br>
+This value was not measured. There was no intentional heating of the powder in the hopper. 
+
+**Is detailed information (i.e. location, size, deposition path) of the substrate block available?**<br>
+- Location and size information of the substrate blocks for each sample can be found in the Build B- All Parts.stl file located in the Calibration folder of the Challenge 2 dataset. 
+- We do not have CLI files for the substrate blocks under the challenge problem. 
+- Please refer to the Challenge 2 Problem Statement slides 6-9 for general description of scan strategies and substrate blocks (slide 9)
+
+
 ## ELIGIBILITY
 Challenge problems are open to academia, small and large businesses, national laboratories, both in the U.S. and internationally. Data packages will be publicly released by AFRL and made available to participants. Contact information will be required for accessing data packages to allow for challenge updates to be communicated but does not obligate participation. Submissions will be kept private during grading but will be shared anonymously as an aggregate after grading. Only AFRL will know the identity associated with each submission at any time. If a participant is selected as a Top Performer in one of the challenges, then that participant must agree to openly associate their identity with the submission. Participants will be informed of their submission’s grade/quality and can see other submissions in an anonymous form in a debrief document/journal article. Participants interested in having their submission graded, but not considered for an award, may discuss with AFRL regarding inclusion in the anonymous aggregate. Any questions regarding eligibility to participate or accept Top Performer recognitions should be addressed to AFRL through the challenge participation site.
 Participants may submit multiple times but must detail the differences in their modeling approach in the form of a brief abstract, as detailed in the grading section below. Participants should limit themselves to a reasonable number of submissions and are subject to AFRL discretion on how many will be reviewed if more are submitted.
