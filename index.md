@@ -60,6 +60,9 @@ This value was not measured. There was no intentional heating of the powder in t
 - We do not have CLI files for the substrate blocks under the challenge problem. 
 - Please refer to the Challenge 2 Problem Statement slides 6-9 for general description of scan strategies and substrate blocks (slide 9)
 
+**Can you provide more precise details on the post-build heat treatments (temperatures and times for SR, HIP, and HT) for challenge 3 samples?**<br>
+No specific heat treatment details will be provided. The challenge is to predict aggregate stress-strain behavior given representative microstructure characteristics.  Please see the problem statement and dataset for available calibration and input data.
+
 
 ## ELIGIBILITY
 Challenge problems are open to academia, small and large businesses, national laboratories, both in the U.S. and internationally. Data packages will be publicly released by AFRL and made available to participants. Contact information will be required for accessing data packages to allow for challenge updates to be communicated but does not obligate participation. Submissions will be kept private during grading but will be shared anonymously as an aggregate after grading. Only AFRL will know the identity associated with each submission at any time. If a participant is selected as a Top Performer in one of the challenges, then that participant must agree to openly associate their identity with the submission. Participants will be informed of their submission’s grade/quality and can see other submissions in an anonymous form in a debrief document/journal article. Participants interested in having their submission graded, but not considered for an award, may discuss with AFRL regarding inclusion in the anonymous aggregate. Any questions regarding eligibility to participate or accept Top Performer recognitions should be addressed to AFRL through the challenge participation site.
