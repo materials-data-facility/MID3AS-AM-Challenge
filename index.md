@@ -34,14 +34,13 @@ Given an explicit microstructure representation, predict aggregate **stress-stra
 
 <span style="color:#FF2400">Answers that AFRL provides to any questions about the challenges will be posted here.</span>
 
+### GENERAL
+
 **What is the preheat temperature of the build plates?**<br>
 The programmed build plate preheat temperature was set to 80&deg;C for all builds used in the challenge series.
 
 **What is the temperature inside the chamber (i.e., above the powder) during the build?**<br>
 No temperature data inside the build chamber was collected.
-
-**Is it correct that the 10 layers in the B21.cli represent a multi-layer formation? This would be in contrast to B27.cli which would represent 30 tracks of one layer formation.**<br>
-Yes, B21 is a single track wall that is 10 layers tall.  B27 is a 2D pad composed of multiple tracks with in a single layer. Slides 10 and 21 from the Challenge 2 Problem Statement are good references. 
 
 **What was the laser beam diameter?**<br>
 We did not directly measure the laser spot size during these experiments/builds.  From the manufacturer's data sheet: Gaussian laser spot diameter (4&sigma;) = 0.1 mm (Challenge 2 Problem Statement slide 13).  Note: Challenge 2 builds were fabricated without making adjustments to the laser spot size value, therefore the value is internally consistente whithin the data sets even if it deviates from the manufacturer's stated nominal value. 
@@ -49,28 +48,45 @@ We did not directly measure the laser spot size during these experiments/builds.
 **What is the atmosphere used to print the challenge samples?**<br>
 Argon
 
-**Regarding the multi-layer, thin-wall cases for Challenge 2, what is the dwell time between the deposition of each layer, if any?**<br>
-Please refer to the HomeIn_Build B.csv file located in the Input data folder in the Challenge 2 data set for the layer times. Refer to the Challenge 2 Problem Statement slide 9 (substrate and timing) for a description of processing to help you interpret the HomeIn file. 
-
 **What is the expected temperature of the deposited powder once leaving the hopper?**<br>
 This value was not measured. There was no intentional heating of the powder in the hopper. 
+
+### CHALLENGE 1
+
+**For Challenge 1, are the strain measurements measured tangentially through the thickness (1), or are they measured concentrically (2)? And if it is tangentially measured, would the interaction depth be 2.7mm? And for the tangent measurement, is the process to essentially measure one centered point as it gets near the outside radius?**<br>
+In [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Interaction_Depth_Question2020015.png) provided by the questioner, the regions labeled 1 and 2 correspond to the two options for the location of the strain measurements noted in the question.  The strains are measured tangentially through the thickness (region 1).  Yes, the interaction depth for the horizontal component of strain is 2.7mm and the vertical component of strain is 4.6mm.  The interaction depth measurement was centered left/right as per [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Interaction_Depth_Explanation_20200115.png).  The measurement grid for the tubes was created by essentially moving up/down and in/out of the page (in the previously linked schematic).
+
+### CHALLENGE 2
+
+**Is it correct that the 10 layers in the B21.cli represent a multi-layer formation? This would be in contrast to B27.cli which would represent 30 tracks of one layer formation.**<br>
+Yes, B21 is a single track wall that is 10 layers tall.  B27 is a 2D pad composed of multiple tracks with in a single layer. Slides 10 and 21 from the Challenge 2 Problem Statement are good references. 
+
+**Regarding the multi-layer, thin-wall cases for Challenge 2, what is the dwell time between the deposition of each layer, if any?**<br>
+Please refer to the HomeIn_Build B.csv file located in the Input data folder in the Challenge 2 data set for the layer times. Refer to the Challenge 2 Problem Statement slide 9 (substrate and timing) for a description of processing to help you interpret the HomeIn file. 
 
 **Is detailed information (i.e. location, size, deposition path) of the substrate block available?**<br>
 - Location and size information of the substrate blocks for each sample can be found in the Build B- All Parts.stl file located in the Calibration folder of the Challenge 2 dataset. 
 - We do not have CLI files for the substrate blocks under the challenge problem. 
-- Please refer to the Challenge 2 Problem Statement slides 6-9 for general description of scan strategies and substrate blocks (slide 9)
-
-**Can you provide more precise details on the post-build heat treatments (temperatures and times for SR, HIP, and HT) for challenge 3 samples?**<br>
-No specific heat treatment details will be provided. The challenge is to predict aggregate stress-strain behavior given representative microstructure characteristics.  Please see the problem statement and dataset for available calibration and input data.
+- Please refer to the Challenge 2 Problem Statement slides 6-9 for general description of scan strategies and substrate blocks (slide 9).
 
 **For Challenge 2, what is the difference between "D" and "D_tot"?**<br>
 The Challenge 2 problem statement document describes a total depth measurement "D_tot", but the answer template does not contain a matching column, instead it has a column labeled "D".  These quantities are identical, make measurements of D_tot as described in the Challenge 2 problem statement and place them in the column "D" in the answer template.  You do not need to change the column header in your answer template, but we will consider any column labled either "D" or "D_tot" to count as an answer for "D_tot" as described in the problem statement.
 
-**For Challenge 4, on slide 20, it states "hold for measurement". How long is the holding period during each measurement?  During the measurement, is the displacement constant or load?**<br>
-Hold times varied. The specimen was held at a given state for 2-3 hours for measurement.  During these holds the machine remained in load control.
+### CHALLENGE 3
+
+**Can you provide more precise details on the post-build heat treatments (temperatures and times for SR, HIP, and HT) for Challenge 3 samples?**<br>
+No specific heat treatment details will be provided. The challenge is to predict aggregate stress-strain behavior given representative microstructure characteristics.  Please see the problem statement and dataset for available calibration and input data.
 
 **For Challenge 3, what is the strain rate for final measurement?**<br>
 The milli-tensile specimens were deformed under stroke/displacement control with a target strain rate in the elastic regime of 8.333e-5 mm/mm/sec.  This stroke rate value was used for the whole tensile test – from 0 load through yield and through final failure.
+
+### CHALLENGE 4
+
+**For Challenge 4, on slide 20, it states "hold for measurement". How long is the holding period during each measurement?  During the measurement, is the displacement constant or load?**<br>
+Hold times varied. The specimen was held at a given state for 2-3 hours for measurement.  During these holds the machine remained in load control.
+
+**For Challenge 4, it is mentioned that the holding period is about 2-3 hours. It is a long time. Does the authority have any load/displacement vs time history data available for the material?**<br>
+For the higher stress load states we unloaded the specimen by 50MPa after we reached the target stress level/state to avoid any relaxation/creep within the material during the 2-3 hour hold time.  This is standard practice for loading and measuring of HEDM specimens at or near the yield surface.
 
 
 ## ELIGIBILITY
