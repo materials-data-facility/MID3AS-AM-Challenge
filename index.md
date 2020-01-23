@@ -6,7 +6,7 @@
     * Do not delete/ move/ relabel cells or tabs
 * Please answer all fields in the Overview tab. 
 * Return as an .xlsx file 
-* Each submission file should have be labeled using the following format: **LASTNAME_SUBMISSION#_ChallengeXAnswerTemplate**
+* Each submission file should be labeled using the following format: **LASTNAME_SUBMISSION#_ChallengeXAnswerTemplate**
     * Ex: Cox_1_ Challenge4AnswerTemplate 
     * If an individual is submitting more than one answer for a specific challenge, use the submission# to differentiate submissions (1,2,3,4..)
 
@@ -15,7 +15,7 @@ Instructions for submitting answers via DoD SAFE:
     * "Marie - I need a DoD SAFE drop off request."
     * Name
     * Preferred email address<br>
-    <span style="color:#FF2400">**NOTE:**</span> DO NOT attached any files to the email.
+    <span style="color:#FF2400">**NOTE:**</span> DO NOT attach any files to the email.
 2. Within 24 hours (weekdays) and 48 hours (weekends), you should receive two emails, one from <NoReplyTo@mail.mil> (check you junk mail) and one from <marie.cox@us.af.mil>.
     * If you do not receive these emails, your email may have been blocked by the Air Force system. As a back up, you may go to this [Google survey link](https://docs.google.com/forms/d/e/1FAIpQLSdWz4WUvu6Wn0IqOVp0qeZYT_pV50HUdJR61lZyRXS44qBfRA/viewform?usp=sf_link) and enter your name and preferred email address.
 3. Use the link provided in the <NoReplyTo@mail.mil> email to drop off answer templates to DoD SAFE. Files must be dropped off no later than **24:00 (12pm) EST on Monday 3 February 2020.**
