@@ -16,7 +16,7 @@ Instructions for submitting answers via DoD SAFE:
     * Name
     * Preferred email address<br>
     <span style="color:#FF2400">**NOTE:**</span> DO NOT attached any files to the email.
-2. Within 24 hours (weekdays) and 48 hours (weekends), you should receive two emails, one from <NoReplyTo@mail.mil> (check you junk mail) and one from <marie.cox@us.af.mil>.
+2. Within 24 hours (weekdays) and 48 hours (weekends), you should receive three emails, two from <NoReplyTo@mail.mil> (check you junk mail) and one from <marie.cox@us.af.mil>.
     * If you do not receive these emails, your email may have been blocked by the Air Force system. As a back up, you may go to this [Google survey link](https://docs.google.com/forms/d/e/1FAIpQLSdWz4WUvu6Wn0IqOVp0qeZYT_pV50HUdJR61lZyRXS44qBfRA/viewform?usp=sf_link) and enter your name and preferred email address.
 3. Use the link provided in the <NoReplyTo@mail.mil> email to drop off answer templates to DoD SAFE. Files must be dropped off no later than **24:00 (12pm) EST on Monday 3 February 2020.**
     *	Multiple submissions (to either different or the same challenge) can be added to one ‘Drop-Off’
@@ -93,6 +93,9 @@ This value was not measured. There was no intentional heating of the powder in t
 **For Challenge 1, are the strain measurements measured tangentially through the thickness (1), or are they measured concentrically (2)? And if it is tangentially measured, would the interaction depth be 2.7mm? And for the tangent measurement, is the process to essentially measure one centered point as it gets near the outside radius?**<br>
 In [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Interaction_Depth_Question2020015.png) provided by the questioner, the regions labeled 1 and 2 correspond to the two options for the location of the strain measurements noted in the question.  The strains are measured tangentially through the thickness (region 1).  Yes, the interaction depth for the horizontal component of strain is 2.7mm and the vertical component of strain is 4.6mm.  The interaction depth measurement was centered left/right as per [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Interaction_Depth_Explanation_20200115.png).  The measurement grid for the tubes was created by essentially moving up/down and in/out of the page (in the previously linked schematic).
 
+**I would like to confirm that we only need to provide strain prediction based on the given coordinates and can safely ignore the non-uniformity of given grid points**<br>
+Confirmed. Use only the provided coordinates in the Answer Template. We are only asking for predictions in locations where measurements were taken. In some samples measurements were not on a uniform grid. See slide 30, Fig 22 of the  Challenge 1 Problem Statement for examples.
+
 ### CHALLENGE 2
 
 **Is it correct that the 10 layers in the B21.cli represent a multi-layer formation? This would be in contrast to B27.cli which would represent 30 tracks of one layer formation.**<br>
@@ -139,7 +142,9 @@ Challenge problems will have a plaques and recognitions for all Top Performers. 
 There is also an associated monetary and/or resource award that may be issued to Top Performers if they meet eligibility requirements and submit the required documentation. Exact details of the breakdown of prize money/resources is under development and award amounts will be communicated through the challenge participation site and may be determined by number of participants. Likely, winners and runners-up of each challenge will receive awards. An independent third-party will coordinate awards with selected Top Performers.
 
 ### AWARD ELIGIBILITY
-To be eligible for the monetary and/or resource award, participants must completely fill in and sign the [Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series Agreement with the National Center for Defense Manufacturing and Machining (NCDMM)](https://materials-data-facility.github.io/MID3AS-AM-Challenge/AFRL_AM_ModelingChallengeSeries_EligibilityForAward_NCDMM.docx) who will act as the independent third-party administrator for the awards.  Submit your completed agreement to challenge@americamakes.us within a week of challenge submission.    
+To be eligible for the monetary and/or resource award, participants must completely fill in and sign the [Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series Agreement with the National Center for Defense Manufacturing and Machining (NCDMM)](https://materials-data-facility.github.io/MID3AS-AM-Challenge/AFRL_AM_ModelingChallengeSeries_EligibilityForAward_NCDMM.docx) who will act as the independent third-party administrator for the awards.  Submit your completed agreement to <challenge@americamakes.us> within a week of challenge submission.
+
+<span style="color:#FF2400">**NOTE:</span> Use the DoD Safe SHA-256 Checksum for the ANSWER SUBMISSION CONFIRMATION NUMBER.**
 
 ## LOGISTICS
 Data packages will carry unlimited data rights to the participants with proper citation. Submissions will be the property of the corresponding participant. AFRL is requesting rights to use the submissions in derivative work, but will not distribute submissions directly without approval of the corresponding participants. ARFL will use submissions as an anonymous aggregate unless participants make individual arrangements with AFRL. Participants will be asked to submit results and relevant details of their simulation procedure using a template provided with the challenge problem data package. The simulation details will be treated with the same rights and procedures as the results themselves. It should be noted that AFRL is not setting any constraints on the modeling approaches allowed by participants. Further, any additional information available in literature can be utilized by participants, but should be reported with the submission.
