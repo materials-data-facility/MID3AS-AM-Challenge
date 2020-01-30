@@ -88,6 +88,9 @@ Argon
 **What is the expected temperature of the deposited powder once leaving the hopper?**<br>
 This value was not measured. There was no intentional heating of the powder in the hopper. 
 
+**Is that "brief abstract" mentioned in the Grading section of this page intended to be the same as the "model description" paragraph in the answer template overview slide?**<br>
+Yes. The language in the grading section has been updated to clarify.
+
 ### CHALLENGE 1
 
 **For Challenge 1, are the strain measurements measured tangentially through the thickness (1), or are they measured concentrically (2)? And if it is tangentially measured, would the interaction depth be 2.7mm? And for the tangent measurement, is the process to essentially measure one centered point as it gets near the outside radius?**<br>
@@ -95,6 +98,14 @@ In [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challeng
 
 **I would like to confirm that we only need to provide strain prediction based on the given coordinates and can safely ignore the non-uniformity of given grid points**<br>
 Confirmed. Use only the provided coordinates in the Answer Template. We are only asking for predictions in locations where measurements were taken. In some samples measurements were not on a uniform grid. See slide 30, Fig 22 of the  Challenge 1 Problem Statement for examples.
+
+**According to slide 30 in Challenge 1, for tube samples (A67 - A69), is the measured plane (R’Z') for residual strains lied parallel to the x-axis of the built plate?**<br>
+For Z’ = constant, measurements are parallel to the build plate.  We do not know the precise (θ’) orientation of the tube challenge articles during EDD measurement, however the principal components of strain that were measured in each tube were the normal components of strain in the radial (R’) and axial (Z’) directions (slide 9).
+
+<span style="color:#FF2400">Correction/Clarification</span> Challenge 1 slide 9:
+
+* Fig 5 should read : Local coordinate system for tube articles. R’ θ’ Z’ is the polar coordinate system for the tubes where the origin is on the build plate, centered at the center of the tube. θ’=0 || X’ 
+* The R in the schematic should be R’
 
 ### CHALLENGE 2
 
@@ -147,13 +158,13 @@ There is also an associated monetary and/or resource award that may be issued to
 ### AWARD ELIGIBILITY
 To be eligible for the monetary and/or resource award, participants must completely fill in and sign the [Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series Agreement with the National Center for Defense Manufacturing and Machining (NCDMM)](https://materials-data-facility.github.io/MID3AS-AM-Challenge/AFRL_AM_ModelingChallengeSeries_EligibilityForAward_NCDMM.docx) who will act as the independent third-party administrator for the awards.  Submit your completed agreement to <challenge@americamakes.us> within a week of challenge submission.
 
-<span style="color:#FF2400">**NOTE:</span> Use the DoD Safe SHA-256 Checksum for the ANSWER SUBMISSION CONFIRMATION NUMBER.**
+<span style="color:#FF2400">**NOTE:**</span> Use the DoD Safe SHA-256 Checksum for the ANSWER SUBMISSION CONFIRMATION NUMBER.**
 
 ## LOGISTICS
 Data packages will carry unlimited data rights to the participants with proper citation. Submissions will be the property of the corresponding participant. AFRL is requesting rights to use the submissions in derivative work, but will not distribute submissions directly without approval of the corresponding participants. ARFL will use submissions as an anonymous aggregate unless participants make individual arrangements with AFRL. Participants will be asked to submit results and relevant details of their simulation procedure using a template provided with the challenge problem data package. The simulation details will be treated with the same rights and procedures as the results themselves. It should be noted that AFRL is not setting any constraints on the modeling approaches allowed by participants. Further, any additional information available in literature can be utilized by participants, but should be reported with the submission.
 
 ## GRADING
-Challenges will be graded by awarding points for each requested prediction, based on accuracy. For each requested prediction, levels generally deemed “Excellent” > “Good” > “Acceptable” have been established and points will be awarded in increasing value for obtaining each level. Each challenge problem consists of numerous (> 10) requested predictions. It is not required that any given submission make all requested predictions, but no points will be earned for unmade predictions. Each submission should have a brief abstract accompanying the provided answer template detailing the general modeling methodology used to make the predictions. Lack of an abstract and refusal to provide one may result in decremented points. Only answers submitted in the provided answer template (included in the data set) will be graded.  
+Challenges will be graded by awarding points for each requested prediction, based on accuracy. For each requested prediction, levels generally deemed “Excellent” > “Good” > “Acceptable” have been established and points will be awarded in increasing value for obtaining each level. Each challenge problem consists of numerous (> 10) requested predictions. It is not required that any given submission make all requested predictions, but no points will be earned for unmade predictions. Each submission should have a brief abstract accompanying the provided answer template detailing the general modeling methodology used to make the predictions (use the 'Model Description, Narrative format' cell in the Overview tab of the answer template). Lack of an abstract and refusal to provide one may result in decremented points. Only answers submitted in the provided answer template (included in the data set) will be graded.  
 
 ## SUBMISSION
 The answer templates included in each challenge data set must be used for all submissions.  Each answer template includes an overview sheet that must be completely filled in. Answers submitted in any other form will not be graded. 
