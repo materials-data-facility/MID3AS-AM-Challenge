@@ -1,41 +1,30 @@
-## SUBMISSION INSTRUCTIONS
+﻿## CHALLENGE RESULTS ANNOUNCED
 
-<span style="color:#FF2400">**NOTE:**</span> Answers not submitted in the requested format will not be scored.
-* All answers must be submitted using the challenge answer template 
-    * See Answer Template links in CHALLENGE DATA section below
-    * Do not delete/ move/ relabel cells or tabs
-* Please answer all fields in the Overview tab. 
-* Return as an .xlsx file 
-* Each submission file should be labeled using the following format: **LASTNAME_SUBMISSION#_ChallengeXAnswerTemplate**
-    * Ex: Cox_1_ Challenge4AnswerTemplate 
-    * If an individual is submitting more than one answer for a specific challenge, use the submission# to differentiate submissions (1,2,3,4..)
+20 July 2020
 
-Instructions for submitting answers via DoD SAFE:
-1. Email [marie.cox@us.af.mil](mailto:marie.cox@us.af.mil) no later than **23:59:59 EST on 31 January 2020** to request a secure link for DoD Safe 2020 (Early is better – links are good for 14 days). Provide the following information:
-    * "Marie - I need a DoD SAFE drop off request."
-    * Name
-    * Preferred email address<br>
-    <span style="color:#FF2400">**NOTE:**</span> DO NOT attached any files to the email.
-2. Within 24 hours (weekdays) and 48 hours (weekends), you should receive three emails, two from <NoReplyTo@mail.mil> (check your junk mail) and one from <marie.cox@us.af.mil>.
-    * If you do not receive these emails, your email may have been blocked by the Air Force system. As a back up, you may go to this [Google survey link](https://docs.google.com/forms/d/e/1FAIpQLSdWz4WUvu6Wn0IqOVp0qeZYT_pV50HUdJR61lZyRXS44qBfRA/viewform?usp=sf_link) and enter your name and preferred email address.
-3. Use the link provided in the <NoReplyTo@mail.mil> email to drop off answer templates to DoD SAFE. Files must be dropped off no later than **23:59:59 EST on Monday 3 February 2020.**
-    *	Multiple submissions (to either different or the same challenge) can be added to one ‘Drop-Off’
-        *	Files can be dragged in or the ‘Click to Add Files’ button can be used to navigate to files 
-        *	Each submission file should have labeling scheme described above (i.e. LASTNAME_SUBMISSION#_ChallengeXAnswerTemplate)
-    *	Once all files have been added click the blue Drop-off Files button
-    *	Click OK to confirm you are not sending classified information 
-    *	You should then see a Drop-Off Completed page<br>
-        * On the Drop-Off Completed page, you should be presented with a SHA256 checksum for each submitted file.  **Record these checksums for your records to confirm the submission.  We will be using these checksums to track submissions and confirm that the correct files are used for grading.**<br>
-    <span style="color:#FF2400">**NOTE:**</span> Each DoD SAFE link provided is only good for one use. If you mmake a mistake during submission, use the link in the second email from <NoReplyTo@mail.mil>. You can ignore the second email if first submission goes smoothly. 
-4. If you want to be considered for the NCDMM awards (monetary) please go to the AWARDS section below and follow instructions. 
-
-**Problems Accessing DoD SAFE?**<br>
-Problems accessing the DoD SAFE site by external (non-CAC) users are typically due to SSL and/or client certificate issues. If the user receives a warning about a problem with the website's security certificate, this is because their browser is not configured to trust the DoD certificate authorities.
-
-The user can either import the DoD certificate authorities by following the instructions in the DoD PKI PMO's guide on Install Root or they can accept the risk and click on the option to continue to the website. The current guide on Install Root can be found [HERE](https://dl.dod.cyber.mil/wp-content/uploads/pki-pke/pdf/unclass-rg-installroot_5_2_niprnet_user_guide.pdf).  
+Air Force Research Laboratory, Materials & Manufacturing Directorate Structural Materials, Metals Branch (AFRL/RXCM) and America Makes, proudly announce the additive manufacturing (AM) Modeling Challenge series top performers.  See the full [[America Makes press release here.]](https://www.americamakes.us/america-makes-and-air-force-research-laboratory-announce-awardees-of-the-additive-manufacturing-modeling-challenge-series/)
 
 
-## GETTING STARTED
+**Challenge 1:** Macro-scale Process-to-Structure Predictions
+Given processing details, predict macroscale residual strain.
+Top Performer: **Dassault Systems Government Solutions Corp**
+
+**Challenge 2:** Micro-scale Process-to-Structure Predictions
+Given processing details, predict deposit geometry and microstructural details at the single bead, single layer scale
+Top Performer:  **The Wing Kam Liu Group, Northwestern University**
+
+**Challenge 3:** Macro-scale Structure-to-Properties Predictions
+Given representative microstructure characteristics, predict aggregate stress-strain behavior.
+Top Performer:  **QuesTek Innovations LLC**
+
+**Challenge 4:** Micro-scale Structure-to-Properties Predictions
+Given an explicit microstructure representation, predict aggregate stress-strain behavior and strain in particular grains.
+Top Performer:  **University of Utah, Carnegie Mellon University and Los Alamos National Lab (Dr. Ashley Spear, Dr. A.D. (Tony) Rollett, Dr. Ricardo Lebensohn)**
+
+
+
+
+## ACCESSING THE DATA
 
 * **STEP 1**: **[[Create a free Globus account]]( https://globus.org/signup )** using institutional credentials, Google ID or ORCID. Globus is required to access the datasets.
 
