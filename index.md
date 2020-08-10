@@ -34,8 +34,6 @@ Top Performer:  **University of Utah, Carnegie Mellon University and Los Alamos 
 
 ## CHALLENGE DATA
 
-<span style="color:#FF2400">Please check back for updates.</span>
-
 For each challenge listed below, there are links to the Problem Statement, Dataset, and Answer Template. The Dataset must be accessed through Globus where individual files from the dataset can be transferred to a location of your choice.  If the Dataset link below takes you to [‘Error Fetching Search Record’](https://materials-data-facility.github.io/MID3AS-AM-Challenge/ErrorFetchingSearchRecord.jpg) page, make sure you are signed into Globus AND click the Login link in the upper right hand corner to sign in using your Globus account information. 
 
 To access the datasets, click the "Globus" link under the "Get the Data" section, which should redirect you to Globus' web application.  Data may be transferred from Globus to your computer by setting up an endpoint.  Documentation on establishing a Globus endpoint for each operating system is found here: [MacOs](https://docs.globus.org/how-to/globus-connect-personal-mac/), [Linux](https://docs.globus.org/how-to/globus-connect-personal-linux/), [Windows](https://docs.globus.org/how-to/globus-connect-personal-windows/).  Once an enpoint is established, the Globus web application is used to conduct the download.  Information on transferring data from Globus is found [here](https://docs.globus.org/how-to/get-started/).
@@ -58,7 +56,7 @@ Given an explicit microstructure representation, predict aggregate **stress-stra
 
 ## QUESTIONS & ANSWERS
 
-<span style="color:#FF2400">Answers that AFRL provides to any questions about the challenges will be posted here.</span>
+<span style="color:#FF2400">Answers that AFRL provided to questions about the challenges have been posted here.</span>
 
 ### GENERAL
 
