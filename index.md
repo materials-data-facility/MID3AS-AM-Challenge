@@ -1,4 +1,4 @@
-Ôªø## CHALLENGE RESULTS ANNOUNCED
+## CHALLENGE RESULTS ANNOUNCED
 
 20 July 2020
 
@@ -30,11 +30,11 @@ Top Performer:  **University of Utah, Carnegie Mellon University and Los Alamos 
 
 * **STEP 2**: **[[Join this Globus Group]]( https://app.globus.org/groups/fe6bbb86-74fe-11e8-b558-0a7d99bc78fe/about )** to gain access to the Air Force Research Laboratory (AFRL) Additive Manufacturing (AM) Modeling Challenge Series data packages. Joining the group does not obligate you to participate in the challenge, but is required to obtain the data packages.
 
-* **STEP 3**: **[[Subscribe Here]](https://docs.google.com/forms/d/e/1FAIpQLScibM5JVow6aEfebX5xGLK5zwKRP0O07RdD8jF2Emz6MIcbIQ/viewform?usp=sf_link )** to receive email updates about the AFRL AM Modeling Challenge Series ‚Äì including information on dataset availability.  (Contact information collected here will only be used to send pertinent updates for the challenges.)
+* **STEP 3**: **[[Subscribe Here]](https://docs.google.com/forms/d/e/1FAIpQLScibM5JVow6aEfebX5xGLK5zwKRP0O07RdD8jF2Emz6MIcbIQ/viewform?usp=sf_link )** to receive email updates about the AFRL AM Modeling Challenge Series ñ including information on dataset availability.  (Contact information collected here will only be used to send pertinent updates for the challenges.)
 
 ## CHALLENGE DATA
 
-For each challenge listed below, there are links to the Problem Statement, Dataset, and Answer Template. The Dataset must be accessed through Globus where individual files from the dataset can be transferred to a location of your choice.  If the Dataset link below takes you to [‚ÄòError Fetching Search Record‚Äô](https://materials-data-facility.github.io/MID3AS-AM-Challenge/ErrorFetchingSearchRecord.jpg) page, make sure you are signed into Globus AND click the Login link in the upper right hand corner to sign in using your Globus account information. 
+For each challenge listed below, there are links to the Problem Statement, Dataset, and Answer Template. The Dataset must be accessed through Globus where individual files from the dataset can be transferred to a location of your choice.  If the Dataset link below takes you to [ëError Fetching Search Recordí](https://materials-data-facility.github.io/MID3AS-AM-Challenge/ErrorFetchingSearchRecord.jpg) page, make sure you are signed into Globus AND click the Login link in the upper right hand corner to sign in using your Globus account information. 
 
 To access the datasets, click the "Globus" link under the "Get the Data" section, which should redirect you to Globus' web application.  Data may be transferred from Globus to your computer by setting up an endpoint.  Documentation on establishing a Globus endpoint for each operating system is found here: [MacOs](https://docs.globus.org/how-to/globus-connect-personal-mac/), [Linux](https://docs.globus.org/how-to/globus-connect-personal-linux/), [Windows](https://docs.globus.org/how-to/globus-connect-personal-windows/).  Once an enpoint is established, the Globus web application is used to conduct the download.  Information on transferring data from Globus is found [here](https://docs.globus.org/how-to/get-started/).
 
@@ -44,15 +44,15 @@ Given processing details, predict macroscale **residual strain**.<br>
 
 **CHALLENGE 2: Micro-scale Process-to-Structure Predictions**<br>
 Given processing details, predict deposit **geometry and microstructural** details at the single bead, single layer scale.<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/m27h1z) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2ProblemStatement_2021Release.pdf) [[Dataset]](https://doi.org/10.18126/m27h1z) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge2AnswerTemplate.xlsx)
 
 **CHALLENGE 3: Macro-scale Structure-to-Properties Predictions**<br>
 Given representative microstructure characteristics, predict aggregate **stress-strain behavior**.<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/M26639) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3AnswerTemplate.xlsx)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3ProblemStatement_2021Release.pdf) [[Dataset]](https://doi.org/10.18126/M26639) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge3AnswerTemplate.xlsx)
 
 **CHALLENGE 4: Micro-scale Structure-to-Properties Predictions**<br>
 Given an explicit microstructure representation, predict aggregate **stress-strain behavior and strain in particular grains.**<br>
-[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4ProblemStatement_2019Release.pdf) [[Dataset]](https://doi.org/10.18126/k5r2-32iu) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4AnswerTemplate.xlsx)
+[[Problem Statement]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4ProblemStatement_2021Release.pdf) [[Dataset]](https://doi.org/10.18126/k5r2-32iu) [[Answer Template]](https://materials-data-facility.github.io/MID3AS-AM-Challenge/Challenge4AnswerTemplate.xlsx)
 
 ## QUESTIONS & ANSWERS
 
@@ -86,13 +86,13 @@ In [this schematic](https://materials-data-facility.github.io/MID3AS-AM-Challeng
 **I would like to confirm that we only need to provide strain prediction based on the given coordinates and can safely ignore the non-uniformity of given grid points**<br>
 Confirmed. Use only the provided coordinates in the Answer Template. We are only asking for predictions in locations where measurements were taken. In some samples measurements were not on a uniform grid. See slide 30, Fig 22 of the  Challenge 1 Problem Statement for examples.
 
-**According to slide 30 in Challenge 1, for tube samples (A67 - A69), is the measured plane (R‚ÄôZ') for residual strains lied parallel to the x-axis of the built plate?**<br>
-For Z‚Äô = constant, measurements are parallel to the build plate.  We do not know the precise (Œ∏‚Äô) orientation of the tube challenge articles during EDD measurement, however the principal components of strain that were measured in each tube were the normal components of strain in the radial (R‚Äô) and axial (Z‚Äô) directions (slide 9).
+**According to slide 30 in Challenge 1, for tube samples (A67 - A69), is the measured plane (RíZ') for residual strains lied parallel to the x-axis of the built plate?**<br>
+For Zí = constant, measurements are parallel to the build plate.  We do not know the precise (?í) orientation of the tube challenge articles during EDD measurement, however the principal components of strain that were measured in each tube were the normal components of strain in the radial (Rí) and axial (Zí) directions (slide 9).
 
 <span style="color:#FF2400">Correction/Clarification</span> Challenge 1 slide 9:
 
-* Fig 5 should read : Local coordinate system for tube articles. R‚Äô Œ∏‚Äô Z‚Äô is the polar coordinate system for the tubes where the origin is on the build plate, centered at the center of the tube. Œ∏‚Äô=0 || X‚Äô 
-* The R in the schematic should be R‚Äô
+* Fig 5 should read : Local coordinate system for tube articles. Rí ?í Zí is the polar coordinate system for the tubes where the origin is on the build plate, centered at the center of the tube. ?í=0 || Xí 
+* The R in the schematic should be Rí
 
 ### CHALLENGE 2
 
@@ -116,7 +116,7 @@ The Challenge 2 problem statement document describes a total depth measurement "
 No specific heat treatment details will be provided. The challenge is to predict aggregate stress-strain behavior given representative microstructure characteristics.  Please see the problem statement and dataset for available calibration and input data.
 
 **For Challenge 3, what is the strain rate for final measurement?**<br>
-The milli-tensile specimens were deformed under stroke/displacement control with a target strain rate in the elastic regime of 8.333e-5 mm/mm/sec.  This stroke rate value was used for the whole tensile test ‚Äì from 0 load through yield and through final failure.
+The milli-tensile specimens were deformed under stroke/displacement control with a target strain rate in the elastic regime of 8.333e-5 mm/mm/sec.  This stroke rate value was used for the whole tensile test ñ from 0 load through yield and through final failure.
 
 ### CHALLENGE 4
 
@@ -127,13 +127,13 @@ Hold times varied. The specimen was held at a given state for 2-3 hours for meas
 For the higher stress load states we unloaded the specimen by 50MPa after we reached the target stress level/state to avoid any relaxation/creep within the material during the 2-3 hour hold time.  This is standard practice for loading and measuring of HEDM specimens at or near the yield surface.
 
 **In the Challenge 4 problem definition, it states that engineering strain was measured with DIC.  Can you provide any more details related to this?**<br>
-The DIC data was a two point correlation, not full-field.  Essentially we tracked the distance between two reference points along the gage section and calculated engineering strain as (‚Äúnew distance‚Äù - ‚Äúoriginal distance‚Äù) / ‚Äúoriginal distance‚Äù.  Also, the two reference points extended beyond the volume of material used in the challenge, as averaging over a longer distance improves strain sensitivity.
+The DIC data was a two point correlation, not full-field.  Essentially we tracked the distance between two reference points along the gage section and calculated engineering strain as (ìnew distanceî - ìoriginal distanceî) / ìoriginal distanceî.  Also, the two reference points extended beyond the volume of material used in the challenge, as averaging over a longer distance improves strain sensitivity.
 
 **In the Challenge 4 data set, we expect that the Bunge Euler angles &phi;<sub>1</sub>, &Phi;, &phi;<sub>2</sub> should have ranges of [0, 2&pi;], [0, &pi;], [0, 2&pi;], respectively.  However, we observe that &Phi; does not appear to take up this full range.  Can you provide any clarification?**</br>
 It is true that the total range of valid Bunge Euler angles are [0, 2&pi;], [0, &pi;], [0, 2&pi;].  However, the provided Euler angles have been reduced to the Rodrigues fundamental zone for cubic crystal symmetries (point group **432**).  This reduces the maximum range for &Phi; when the Rodrigues representation is mapped back into Euler space (in Euler space, unlike in Rodrigues space, the fundamental zone for cubic symmetries is disjoint).  Please refer to [this paper](https://doi.org/10.1107/S1600576717001157) for mathematical details and visualizations of the fundamental zones in both Rodrigues space and Euler space.  In particular, Eq. 11 provides the mapping from a Rodrigues vector to Euler angles.  Fig. 16 provides a visualization of the fundamental zone for **432** in Euler space; note that the zone does not extend to &pi; for the second Euler angle &Phi;.  
 
 ## ELIGIBILITY
-Challenge problems are open to academia, small and large businesses, national laboratories, both in the U.S. and internationally. Data packages will be publicly released by AFRL and made available to participants. Contact information will be required for accessing data packages to allow for challenge updates to be communicated but does not obligate participation. Submissions will be kept private during grading but will be shared anonymously as an aggregate after grading. Only AFRL will know the identity associated with each submission at any time. If a participant is selected as a Top Performer in one of the challenges, then that participant must agree to openly associate their identity with the submission. Participants will be informed of their submission‚Äôs grade/quality and can see other submissions in an anonymous form in a debrief document/journal article. Participants interested in having their submission graded, but not considered for an award, may discuss with AFRL regarding inclusion in the anonymous aggregate. Any questions regarding eligibility to participate or accept Top Performer recognitions should be addressed to AFRL through the challenge participation site.
+Challenge problems are open to academia, small and large businesses, national laboratories, both in the U.S. and internationally. Data packages will be publicly released by AFRL and made available to participants. Contact information will be required for accessing data packages to allow for challenge updates to be communicated but does not obligate participation. Submissions will be kept private during grading but will be shared anonymously as an aggregate after grading. Only AFRL will know the identity associated with each submission at any time. If a participant is selected as a Top Performer in one of the challenges, then that participant must agree to openly associate their identity with the submission. Participants will be informed of their submissionís grade/quality and can see other submissions in an anonymous form in a debrief document/journal article. Participants interested in having their submission graded, but not considered for an award, may discuss with AFRL regarding inclusion in the anonymous aggregate. Any questions regarding eligibility to participate or accept Top Performer recognitions should be addressed to AFRL through the challenge participation site.
 Participants may submit multiple times but must detail the differences in their modeling approach in the form of a brief abstract, as detailed in the grading section below. Participants should limit themselves to a reasonable number of submissions and are subject to AFRL discretion on how many will be reviewed if more are submitted.
 
 ## TOP PERFORMERS - RECOGNITIONS
@@ -151,7 +151,7 @@ To be eligible for the monetary and/or resource award, participants must complet
 Data packages will carry unlimited data rights to the participants with proper citation. Submissions will be the property of the corresponding participant. AFRL is requesting rights to use the submissions in derivative work, but will not distribute submissions directly without approval of the corresponding participants. ARFL will use submissions as an anonymous aggregate unless participants make individual arrangements with AFRL. Participants will be asked to submit results and relevant details of their simulation procedure using a template provided with the challenge problem data package. The simulation details will be treated with the same rights and procedures as the results themselves. It should be noted that AFRL is not setting any constraints on the modeling approaches allowed by participants. Further, any additional information available in literature can be utilized by participants, but should be reported with the submission.
 
 ## GRADING
-Challenges will be graded by awarding points for each requested prediction, based on accuracy. For each requested prediction, levels generally deemed ‚ÄúExcellent‚Äù > ‚ÄúGood‚Äù > ‚ÄúAcceptable‚Äù have been established and points will be awarded in increasing value for obtaining each level. Each challenge problem consists of numerous (> 10) requested predictions. It is not required that any given submission make all requested predictions, but no points will be earned for unmade predictions. Each submission should have a brief abstract accompanying the provided answer template detailing the general modeling methodology used to make the predictions (use the 'Model Description, Narrative format' cell in the Overview tab of the answer template). Lack of an abstract and refusal to provide one may result in decremented points. Only answers submitted in the provided answer template (included in the data set) will be graded.  
+Challenges will be graded by awarding points for each requested prediction, based on accuracy. For each requested prediction, levels generally deemed ìExcellentî > ìGoodî > ìAcceptableî have been established and points will be awarded in increasing value for obtaining each level. Each challenge problem consists of numerous (> 10) requested predictions. It is not required that any given submission make all requested predictions, but no points will be earned for unmade predictions. Each submission should have a brief abstract accompanying the provided answer template detailing the general modeling methodology used to make the predictions (use the 'Model Description, Narrative format' cell in the Overview tab of the answer template). Lack of an abstract and refusal to provide one may result in decremented points. Only answers submitted in the provided answer template (included in the data set) will be graded.  
 
 ## SUBMISSION
 The answer templates included in each challenge data set must be used for all submissions.  Each answer template includes an overview sheet that must be completely filled in. Answers submitted in any other form will not be graded. 
